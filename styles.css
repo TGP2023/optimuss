@@ -46,6 +46,7 @@ p {
 
 a {
     padding: 20px;
+    cursor: pointer;
 
 }
 
@@ -68,6 +69,7 @@ button {
     background: #8E2424;
     border-radius: 8px;
     color: #fff;
+    cursor: pointer;
 }
 
 .enter {
