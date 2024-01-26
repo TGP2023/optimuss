@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+
+}
+
+
+
+.container {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.logo {
+
+    margin-left: 160px;
+    Width: 27px;
+    Height: 26.99px;
+}
+
+
+p {
+    width: 113px;
+    height: 24px;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #3A404E;
+    margin-left: 10px;
+
+}
+
+.menu {
+    padding-left: 250px;
+    color: #667085;
+}
+
+a {
+    padding: 20px;
+
+}
+
+
+
+.container3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 550px;
+
+}
+
+button {
+    Padding: 10px, 18px, 10px, 18px;
+    Gap: 58px;
+    width: 112px;
+    height: 44px;
+    border: 1px;
+    background: #8E2424;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.enter {
+    Width: 47px;
+    Height: 24px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085;
+    margin-right: 50px;
+}
+
+.container4 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 96px;
+
+}
+
+
+.sobre {
+
+    width: 78px;
+    height: 24px;
+    font-family: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #8E2424;
+    margin-left: 35px;
+
+
+
+}
+
+h1 {
+    Width: 652px;
+    height: 60px;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+    color: #101828;
+    margin-top: 50px;
+
+
+
+
+
+}
+
+.paragrafo {
+    Width: 792px;
+    height: 83px;
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #667085;
+    margin-top: 50px;
+
+
+}
+
+.metricas-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 95px;
+    padding: 0px, 0px, 96px, 0px;
+    gap: 64px;
+
+}
+
+.primeira-metrica, .segunda-metrica,.terceira-metrica, .quarta-metrica {
+    width: 280px;
+    height: 168px;
+    gap: 20px;
+    
+
+
+}
+
+span {
+    width: 280px;
+    height: 72px;
+    color: #8E2424;
+
+
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: -0.02em;
+   
+
+
+}
+
+h2 {
+
+    width: 280px;
+    height: 28px;
+
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+
+margin-top: 10px;
+
+    color: #101828;
+
+}
+
+h3 {
+    width: 280px;
+    height: 48px;
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+   
+    margin-top: 10px;
+    color: #667085;
+
+
+}
