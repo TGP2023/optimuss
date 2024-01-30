@@ -142,11 +142,14 @@ h1 {
 
 }
 
-.primeira-metrica, .segunda-metrica,.terceira-metrica, .quarta-metrica {
+.primeira-metrica,
+.segunda-metrica,
+.terceira-metrica,
+.quarta-metrica {
     width: 280px;
     height: 168px;
     gap: 20px;
-    
+
 
 
 }
@@ -161,7 +164,7 @@ span {
     font-weight: 600;
     line-height: 72px;
     letter-spacing: -0.02em;
-   
+
 
 
 }
@@ -176,7 +179,7 @@ h2 {
     line-height: 28px;
     letter-spacing: 0em;
 
-margin-top: 10px;
+    margin-top: 10px;
 
     color: #101828;
 
@@ -190,9 +193,494 @@ h3 {
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0em;
-   
+
     margin-top: 10px;
     color: #667085;
 
 
 }
+
+.talentos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+    padding: 96px, 0px, 96px, 0px;
+    gap: 64px;
+
+    margin-top: 200px;
+
+
+
+
+}
+
+.quinta-metrica {
+    width: 1216px;
+    height: 138px;
+    gap: 20px;
+
+
+
+
+}
+
+
+.vagas {
+    width: 125px;
+    height: 28px;
+
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+
+    background: #8E24240D;
+    color: #8E2424;
+
+    border-radius: 16px;
+
+    margin-left: 540px;
+
+
+}
+
+.procurando {
+    width: 768px;
+    height: 44px;
+
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: -0.02em;
+    margin-left: 327px;
+    color: #101828;
+
+}
+
+.segundo-paragrafo {
+    width: 768px;
+    height: 30px;
+
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    margin-top: 30px;
+
+    color: #667085;
+
+    margin-left: 307px;
+
+}
+
+.imagem-principal {
+    width: 1216px;
+    height: 400px;
+    margin-top: 50px;
+
+}
+
+.sexta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100vw;
+    height: 358px;
+
+
+    padding: 0px, 32px, 0px, 32px;
+    gap: 64px;
+
+    margin-top: 550px;
+
+
+}
+
+.sexta-metrica {
+
+
+    width: 768px;
+    height: 358px;
+    gap: 32px;
+
+
+
+
+
+
+}
+
+.faixa-principal,
+.faixa-principal1,
+.faixa-principal2,
+.faixa-principal3,
+.faixa-principal4 {
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+.design,
+.software {
+    width: 768px;
+    height: 30px;
+
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+
+    color: #101828;
+
+
+
+}
+
+
+
+.product,
+.UX,
+.developed,
+.front,
+.back {
+    width: 720px;
+    height: 28px;
+
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+
+    color: #101828;
+
+    margin-left: 15px;
+
+
+
+}
+
+.border,
+.border1,
+.border2,
+.border3,
+.border4,
+.border5 {
+    width: 768px;
+    height: 136px;
+
+    border-radius: 16px;
+    border: 1px solid #EAECF0;
+    Padding: 24px, 24px, 28px, 24px;
+    gap: 24px;
+    margin-top: 20px;
+
+
+
+}
+
+
+
+.salario,
+.salario-1,
+.salario-2,
+.salario-3,
+.salario-4 {
+
+    width: 68px;
+    height: 24px;
+
+
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    color: #667085;
+
+    margin-top: 20px;
+
+    margin-left: 15px;
+
+
+
+}
+
+.faixa,
+.faixa-1,
+.faixa-2,
+.faixa-3,
+.faixa-4 {
+    width: 173px;
+    height: 24px;
+
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    color: #667085;
+
+    margin-top: 20px;
+
+    margin-left: 22px;
+
+
+}
+
+
+
+.setima {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100vw;
+    height: 518px;
+
+    padding: 0px, 32px, 0px, 32px;
+    gap: 64px;
+    margin-top: 40px;
+
+}
+
+.oitava-metrica {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 500px;
+    padding: 0px, 0px, 96px, 0px;
+
+margin-top: 60px;
+
+
+    background: #FFFFFF;
+
+
+
+}
+
+.faixa-principal5 { 
+  
+    width: 1216px;
+    height: 404px;
+    padding: 64px;
+    border-radius: 16px;
+    gap: 32px;
+
+    background: rgba(195, 25, 25, 0.03);
+
+
+
+
+
+}
+
+.sobre-nos {
+    width: 1088px;
+    height: 20px;
+
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    color: #8E2424;
+
+
+}
+
+.texto-secundario {
+    width: 1088px;
+    height: 88px;
+
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: -0.02em;
+    text-align: center;
+
+    color: #101828;
+
+
+}
+
+.avatar {
+
+      width: 56px;
+    height: 56px;
+    border-radius: 200px;
+margin-left: 520px;
+
+}
+
+.julia {
+    width: 1088px;
+    height: 24px;
+
+
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    color: #101828;
+
+ 
+
+}
+
+.dev-web {
+    width: 1088px;
+    height: 20px;
+
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    color: #667085;
+
+
+}
+
+.nona-metrica{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 430px;
+    padding: 96px, 0px, 96px, 0px;
+    gap: 32px;
+    
+    background: rgba(249, 250, 251, 1);
+
+}
+
+.faixa-principal6{
+    width: 832px;
+    height: 182px;
+    padding: 0px, 32px, 0px, 32px;
+    gap: 32px;    
+   
+
+
+}
+
+.oportunidades{
+    width: 768px;
+    height: 44px;
+
+font-size: 36px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: -0.02em;
+text-align: center;
+
+color: rgba(16, 24, 40, 1);
+
+ 
+
+
+}
+
+.vagas-abertas{
+    width: 768px;
+    height: 30px;
+
+ font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+color: rgba(102, 112, 133, 1);
+  
+margin-top: 30px;
+
+}
+
+input{
+    width: 360px;
+    height: 48px;
+    padding: 12px, 14px, 12px, 16px;
+    border-radius: 8px;
+    border: 1px;
+    gap: 8px;
+    
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF),
+    linear-gradient(0deg, #D0D5DD, #D0D5DD);
+    
+    border: 1px solid rgba(208, 213, 221, 1);
+
+    box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+
+    font-weight:  400;
+    font-size: 16px;
+    line-height: 24px;
+
+color: rgba(102, 112, 133, 1);
+
+margin-top: 40px;
+margin-left: 140px;
+
+
+}
+
+
+.button-2{
+    width: 116px;
+    height: 48px;
+    border-radius: 8px;
+
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+
+
+Border: 1px;
+Padding: 12px, 20px, 12px, 20px;
+Gap: 8px;
+
+
+border: 1px solid rgba(142, 36, 36, 1);
+
+box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+   
+margin-left: 15px;
+
+}
+
+footer{
+    width: 393px;
+    height: 24px;
+
+ 
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+color: rgba(152, 162, 179, 1);
+
+margin-left: 160px;
+
+margin-top: 40px;
+
+}
+
+
+
