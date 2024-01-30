@@ -360,6 +360,9 @@ h3 {
 
     margin-left: 15px;
 
+    cursor: pointer;
+
+
 
 
 }
@@ -407,6 +410,9 @@ h3 {
 
     margin-left: 15px;
 
+    cursor: pointer;
+
+
 
 
 }
@@ -430,6 +436,8 @@ h3 {
     margin-top: 20px;
 
     margin-left: 22px;
+
+    cursor: pointer;
 
 
 }
